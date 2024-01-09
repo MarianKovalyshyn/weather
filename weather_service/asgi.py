@@ -1,5 +1,5 @@
 """
-ASGI config for get_weather_verify_email project.
+ASGI config for weather_service project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.asgi import get_asgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'get_weather_verify_email.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'weather_service.settings')
 
 application = get_asgi_application()

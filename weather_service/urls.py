@@ -1,5 +1,5 @@
 """
-URL configuration for get_weather_verify_email project.
+URL configuration for weather_service project.
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/5.0/topics/http/urls/
